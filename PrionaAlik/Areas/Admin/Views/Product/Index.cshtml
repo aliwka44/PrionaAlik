@@ -4,7 +4,7 @@
 }
 @model IEnumerable<GetProductAdminVM>
 <h5 class="card-title fw-semibold mb-4">Slider</h5>
-<a asp-action="Create" class="btn btn-outline-success m-1 float-end mb-2 ">Products</a>
+<a asp-action="Create" class="btn btn-outline-success m-1 float-end mb-2 ">Create</a>
 <div class="table-responsive w-100">
     <table class="table table-bordered text-nowrap mb-0 align-middle">
         <thead class="text-dark fs-4">
@@ -46,7 +46,7 @@
                         @data.Id
                     </td>
                     <td class="border-bottom-0">
-                        <img src="@data.ImageUrl" width="50" />
+                        <img src="~/@data.ImageUrl" width="50" />
                     </td>
                     <td class="border-bottom-0">
                         @data.Name

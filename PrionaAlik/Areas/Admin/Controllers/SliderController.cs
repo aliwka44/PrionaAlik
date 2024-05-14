@@ -6,23 +6,23 @@ using PrionaAlik.ViewModels.Sliders;
 
 namespace PrionaAlik.Areas.Admin.Controllers
 {
-	[Area("Admin")]
-	public class SliderController(PrionaContext _context) : Controller
-	{
-		public  async Task<IActionResult> Index()
-		{
-        var data=    await _context.Sliders
-                .Select(s => new GetSliderVM
-            {
-                Discount = s.Discount,
-                Id = s.Id,
-                ImageUrl = s.ImageUrl,
-                Subtitle = s.Subtitle,
-                Title = s.Title,
-            }).ToListAsync();
+    [Area("Admin")]
+    public class SliderController(PrionaContext _context) : Controller
+    {
+        public async Task<IActionResult> Index()
+        {
+            var data = await _context.Sliders
+                    .Select(s => new GetSliderVM
+                    {
+                        Discount = s.Discount,
+                        Id = s.Id,
+                        ImageUrl = s.ImageUrl,
+                        Subtitle = s.Subtitle,
+                        Title = s.Title,
+                    }).ToListAsync();
             return View(data);
-		}
-		[HttpGet]
+        }
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
@@ -48,26 +48,26 @@ namespace PrionaAlik.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-		[HttpGet]
-		public  async  Task<IActionResult> Update(int ? id)
-		{
-            if(id==null|| id < 1)  return BadRequest();
-            Slider slider=await _context.Sliders.FirstOrDefaultAsync(s=>s.Id == id);
+        [HttpGet]
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id == null || id < 1) return BadRequest();
+            Slider slider = await _context.Sliders.FirstOrDefaultAsync(s => s.Id == id);
 
             if (slider is null) return NotFound();
 
             UpdateSliderVM sliderVM = new UpdateSliderVM
             {
                 Discount = slider.Discount,
-                Subtitle=slider.Subtitle,
+                Subtitle = slider.Subtitle,
                 Title = slider.Title,
-                ImageUrl =slider.ImageUrl,
+                ImageUrl = slider.ImageUrl,
             };
-			return View(sliderVM);
-		}
+            return View(sliderVM);
+        }
 
         [HttpPost]
-        public async Task<IActionResult> Update(int? id, UpdateSliderVM sliderVM    )
+        public async Task<IActionResult> Update(int? id, UpdateSliderVM sliderVM)
         {
             if (id == null || id < 1) return BadRequest();
             Slider existed = await _context.Sliders.FirstOrDefaultAsync(s => s.Id == id);
@@ -82,6 +82,15 @@ namespace PrionaAlik.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
 
+        }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null || id < 1)
+                return BadRequest();
+            var deleteSlider = await _context.Sliders.FindAsync(id); if (deleteSlider == null)
+                return BadRequest(); _context.Sliders.Remove(deleteSlider); await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
     }
 }
