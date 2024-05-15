@@ -40,6 +40,9 @@ namespace PrionaAlik.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("UpdatedTime")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
@@ -82,6 +85,9 @@ namespace PrionaAlik.Migrations
                     b.Property<int>("StockCount")
                         .HasColumnType("int");
 
+                    b.Property<DateTime>("UpdatedTime")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
                     b.ToTable("Products");
@@ -107,13 +113,16 @@ namespace PrionaAlik.Migrations
                     b.Property<int>("ProductId")
                         .HasColumnType("int");
 
+                    b.Property<DateTime>("UpdatedTime")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("ProductCategory");
+                    b.ToTable("ProductCategories");
                 });
 
             modelBuilder.Entity("PrionaAlik.Models.ProductImage", b =>
@@ -136,6 +145,9 @@ namespace PrionaAlik.Migrations
 
                     b.Property<int>("ProductId")
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdatedTime")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 
@@ -174,6 +186,9 @@ namespace PrionaAlik.Migrations
                         .IsRequired()
                         .HasMaxLength(32)
                         .HasColumnType("nvarchar(32)");
+
+                    b.Property<DateTime>("UpdatedTime")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 

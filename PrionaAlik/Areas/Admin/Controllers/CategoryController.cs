@@ -31,9 +31,9 @@ namespace PrionaAlik.Areas.Admin.Controllers
         [HttpPost]
         public async Task<ActionResult> Create( CreateCategoryVM vm)
         {
-            if (vm.Name!= null&& !(await _sql.Categories.AnyAsync(c=> c.Name == vm.Name))
+            if (vm.Name!= null&& !(await _sql.Categories.AnyAsync(c=> c.Name == vm.Name)))
             {
-                ModelState.AddModelError("Name","ad var")
+                ModelState.AddModelError("Name", "ad var");
             }
             if (!ModelState.IsValid)
             {
@@ -47,7 +47,7 @@ namespace PrionaAlik.Areas.Admin.Controllers
 
             });
             await _sql.SaveChangesAsync();
-            return RedirectToAction(nameof(Index);
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: CategoryController/Edit/5
@@ -63,6 +63,7 @@ namespace PrionaAlik.Areas.Admin.Controllers
         {
             try
             {
+                return View();
             }
             catch
             {

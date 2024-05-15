@@ -37,9 +37,7 @@ namespace PrionaAlik.Areas.Admin.Controllers
             Slider slider = new Slider()
             {
                 Discount = vm.Discount,
-                CreatedTime = DateTime.Now,
                 ImageUrl = vm.ImageUrl,
-                IsDeleted = false,
                 Subtitle = vm.Subtitle,
                 Title = vm.Title,
             };

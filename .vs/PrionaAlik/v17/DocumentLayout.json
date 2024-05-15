@@ -3,91 +3,139 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\dataacceslayer\\prionacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\dataacceslayer\\prionacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\viewmodels\\categories\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\categories\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240515011417_AddedUpdatedTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrionaAlik\\Migrations\\20240515011417_AddedUpdatedTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\viewmodels\\sliders\\updateslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\sliders\\updateslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514233740_ProductChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrionaAlik\\Migrations\\20240514233740_ProductChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\viewmodels\\products\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\products\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\viewmodels\\sliders\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\sliders\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514230311_CreateTableA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrionaAlik\\Migrations\\20240514230311_CreateTableA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514225832_CreatedProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrionaAlik\\Migrations\\20240514225832_CreatedProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\prionaalik\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\dataacceslayer\\prionacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\dataacceslayer\\prionacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514234110_TablesCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:PrionaAlik\\Migrations\\20240514234110_TablesCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,32 +145,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAwCwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T01:54:32.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Products\\CreateProductVM.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Products\\CreateProductVM.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Products\\CreateProductVM.cs",
-              "RelativeToolTip": "PrionaAlik\\ViewModels\\Products\\CreateProductVM.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T01:41:16.51Z",
+              "WhenOpened": "2024-05-14T19:18:14.069Z",
               "EditorCaption": ""
             },
             {
@@ -133,131 +168,10 @@
               "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAqwCIAAAAtAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwGMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:58:07.796Z",
+              "WhenOpened": "2024-05-14T19:14:26.436Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T02:58:47.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T02:59:28.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAwDgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T20:25:45.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T03:00:29.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T20:25:55.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T20:25:25.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T02:59:50.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Categories\\CreateCategoryVM.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Categories\\CreateCategoryVM.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Categories\\CreateCategoryVM.cs",
-              "RelativeToolTip": "PrionaAlik\\ViewModels\\Categories\\CreateCategoryVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T02:56:58.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAiwE0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:12:55.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
@@ -265,33 +179,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs",
-              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs [Read Only]",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T02:07:35.839Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "PrionaAlik\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:40:57.359Z",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T22:21:14.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T19:16:40.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T19:17:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PrionaContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\DataAccesLayer\\PrionaContext.cs",
               "RelativeDocumentMoniker": "PrionaAlik\\DataAccesLayer\\PrionaContext.cs",
@@ -299,38 +226,93 @@
               "RelativeToolTip": "PrionaAlik\\DataAccesLayer\\PrionaContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:39:35.63Z",
+              "WhenOpened": "2024-05-14T19:14:07.33Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240515011417_AddedUpdatedTime.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240515011417_AddedUpdatedTime.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Migrations\\20240515011417_AddedUpdatedTime.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240515011417_AddedUpdatedTime.cs",
+              "RelativeToolTip": "PrionaAlik\\Migrations\\20240515011417_AddedUpdatedTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:14:17.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:06:31.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Products\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeToolTip": "PrionaAlik\\ViewModels\\Products\\CreateProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:41:49.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:06:27.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T22:23:11.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240514234110_TablesCreated.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514234110_TablesCreated.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Migrations\\20240514234110_TablesCreated.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514234110_TablesCreated.cs",
+              "RelativeToolTip": "PrionaAlik\\Migrations\\20240514234110_TablesCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:41:10.769Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PrionaAlik\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T20:37:18.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FileExtension.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Extensions\\FileExtension.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\Extensions\\FileExtension.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Extensions\\FileExtension.cs",
-              "RelativeToolTip": "PrionaAlik\\Extensions\\FileExtension.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBEAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T01:31:15.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "PrionaAlik\\Views\\Home\\Contact.cshtml",
@@ -338,25 +320,24 @@
               "RelativeToolTip": "PrionaAlik\\Views\\Home\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T20:37:09.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T23:07:56.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Views\\Home\\Index.cshtml",
+              "DocumentIndex": 11,
+              "Title": "UpdateSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Sliders\\UpdateSliderVM.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Sliders\\UpdateSliderVM.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Sliders\\UpdateSliderVM.cs",
+              "RelativeToolTip": "PrionaAlik\\ViewModels\\Sliders\\UpdateSliderVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T20:37:08.653Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:54:10.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PrionaAlik\\Views\\Shared\\_Layout.cshtml",
@@ -364,34 +345,236 @@
               "RelativeToolTip": "PrionaAlik\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T20:37:06.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T23:44:06.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrionaAlik\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PrionaAlik\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T23:44:08.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240514233740_ProductChanges.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514233740_ProductChanges.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Migrations\\20240514233740_ProductChanges.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514233740_ProductChanges.cs",
+              "RelativeToolTip": "PrionaAlik\\Migrations\\20240514233740_ProductChanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:37:40.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetProductAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Products\\GetProductAdminVM.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Products\\GetProductAdminVM.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Products\\GetProductAdminVM.cs",
+              "RelativeToolTip": "PrionaAlik\\ViewModels\\Products\\GetProductAdminVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:21:35.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\Category.cs",
+              "RelativeToolTip": "PrionaAlik\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:34:43.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "RelativeToolTip": "PrionaAlik\\ViewModels\\Sliders\\GetSliderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:07:51.881Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T20:37:05.661Z",
-              "EditorCaption": ""
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\Product.cs",
+              "RelativeToolTip": "PrionaAlik\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:42:04.557Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Views\\_ViewStart.cshtml",
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "PrionaAlik\\Extensions\\FileExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:40:44.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PrionaAlik\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:14:05.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateSliderVM.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "RelativeToolTip": "PrionaAlik\\ViewModels\\Sliders\\CreateSliderVM.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:18:01.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T19:18:36.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T20:37:03.787Z",
+              "WhenOpened": "2024-05-14T19:17:41.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240514230311_CreateTableA.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514230311_CreateTableA.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Migrations\\20240514230311_CreateTableA.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514230311_CreateTableA.cs",
+              "RelativeToolTip": "PrionaAlik\\Migrations\\20240514230311_CreateTableA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:03:12.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240514225832_CreatedProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514225832_CreatedProductsTable.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Migrations\\20240514225832_CreatedProductsTable.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240514225832_CreatedProductsTable.cs",
+              "RelativeToolTip": "PrionaAlik\\Migrations\\20240514225832_CreatedProductsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:58:32.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "PrionaAlik\\Models\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:34:40.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "PrionaAlik\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:34:44.768Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\Slider.cs",
+              "RelativeToolTip": "PrionaAlik\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:34:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Models\\ProductImage.cs",
+              "RelativeToolTip": "PrionaAlik\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:34:38.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrionaAlik\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrionaAlik\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T22:23:02.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hp\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc53666000c062365145825722daa49b115eaae24903be2328d34f6c04857a3c\\ProductController.cs [Read Only]",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:07:35.839Z"
             }
           ]
         }
