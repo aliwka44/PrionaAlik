@@ -12,13 +12,16 @@ namespace PrionaAlik.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             var data = await _context.Sliders
-                    .Select(s => new GetSliderVM
+                    .Select(s => new GetSliderAdminVM
                     {
                         Discount = s.Discount,
                         Id = s.Id,
                         ImageUrl = s.ImageUrl,
                         Subtitle = s.Subtitle,
                         Title = s.Title,
+                        IsDeleted = s.IsDeleted,
+                        CreateTime = s.CreatedTime.ToString("dd MMM ddd yyyy"),
+                        UpdateTime = s.UpdatedTime.Year > 1 ? s.UpdatedTime.ToString("dd MMM ddd yyyy") : "",
                     }).ToListAsync();
             return View(data);
         }
@@ -81,7 +84,6 @@ namespace PrionaAlik.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
 
         }
-
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || id < 1)
@@ -89,6 +91,14 @@ namespace PrionaAlik.Areas.Admin.Controllers
             var deleteSlider = await _context.Sliders.FindAsync(id); if (deleteSlider == null)
                 return BadRequest(); _context.Sliders.Remove(deleteSlider); await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+        }
+        public async Task<IActionResult> ChangeVisiblity(int id)
+        {
+           var data= await _context.Sliders.FindAsync(id);
+            if (data == null) return NotFound("melumat tapilmadi");
+            data.IsDeleted=!data.IsDeleted;
+            await _context.SaveChangesAsync();
+            return Ok();
         }
     }
 }

@@ -13,6 +13,7 @@ namespace PrionaAlik.DataAccesLayer
 		public DbSet<Slider> Sliders { get; set; }
 		public DbSet<ProductImage> ProductImages { get; set; }
 		public DbSet<Product> Products { get; set; }
+		public DbSet<Setting> Settings { get; set; }
 		public DbSet<ProductCategory> ProductCategories { get; set; }
 		public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
 		{

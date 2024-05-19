@@ -14,5 +14,8 @@ namespace PrionaAlik.ViewModels.Products
         public int StockCount { get; set; }
         public string ImageUrl { get; set; }
         public float Rating { get; set; }
+        public string Categories {  get; set; }
+        public string CreateTime { get; set; }
+        public string UpdateTime { get; set; }
     }
 }

@@ -10,7 +10,7 @@ namespace PrionaAlik.Extensions
         
         public static bool IsValidLength(this IFormFile file, int kb) =>
             file.Length <= kb * 1024;
-        public static async Task<string> SaveFileAsync(this IFormFile file,string pat   )
+        public static async Task<string> SaveFileAsync(this IFormFile file,string pat)
         {
             string ext = Path.GetExtension(file.FileName);
             string newName = Path.GetRandomFileName() + ext;

@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PrionaAlik.DataAccesLayer;
+using PrionaAlik.ViewModels.Categories;
+using PrionaAlik.ViewModels.Defaults;
 using PrionaAlik.ViewModels.Sliders;
 
 
@@ -14,7 +16,7 @@ namespace PrionaAlik.Controllers
         }
         public async Task<IActionResult> Index()
         {
-              var data=    await _context.Sliders
+              var sliders=    await _context.Sliders
                 .Where(x=>!x.IsDeleted)
                 .Select(s => new GetSliderVM
             {
@@ -24,7 +26,18 @@ namespace PrionaAlik.Controllers
                 Subtitle = s.Subtitle,
                 Title = s.Title,
             }).ToListAsync();
-            return View(data);
+            var categories= await _context.Categories
+                 .Where(x => !x.IsDeleted)
+                .Select(x=> new GetCategoryVM
+                {
+                    Id= x.Id,
+                    Name= x.Name,
+                }).ToListAsync();
+            return View(new HomeVM
+            {
+                Categories = categories,
+                Sliders = sliders
+            });
 
             }
         //public async Task<IActionResult> Test(int? id)

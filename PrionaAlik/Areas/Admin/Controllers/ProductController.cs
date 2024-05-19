@@ -5,7 +5,7 @@ using PrionaAlik.Models;
 using PrionaAlik.ViewModels.Products;
 using PrionaAlik.Extensions;
 using System.Text;
-
+using PrionaAlik.Extensions;
 namespace Pronia.Areas.Admin.Controllers;
 [Area("Admin")]
 public class ProductController(PrionaContext _context, IWebHostEnvironment _env) : Controller
@@ -22,8 +22,11 @@ public class ProductController(PrionaContext _context, IWebHostEnvironment _env)
 				Name = p.Name,
 				Rating = p.Rating,
 				SellPrice = p.SellPrice,
-				StockCount = p.StockCount
-			})
+				StockCount = p.StockCount,
+				Categories=p.ProductCategories.Select(pc=>pc.Category.Name).Bind(','),
+				CreateTime=p.CreatedTime.ToString("dd MMM ddd yyyy"),
+				UpdateTime=p.UpdatedTime.Year>1 ? p.UpdatedTime.ToString("dd MMM ddd yyyy") : "",
+            })
 			.ToListAsync());
 	}
 	public async Task<IActionResult> Create()
@@ -36,16 +39,12 @@ public class ProductController(PrionaContext _context, IWebHostEnvironment _env)
 	[HttpPost]
 	public async Task<IActionResult> Create(CreateProductVM data)
 	{
-		if(!ModelState.IsValid)
-			return View();
-
-
 		if (data.ImageFile != null)
 		{
 			if (!data.ImageFile.IsValidType("image"))
 				ModelState.AddModelError("ImageFile", "Fayl şəkil formatında olmalıdır.");
 			if (!data.ImageFile.IsValidLength(300))
-				ModelState.AddModelError("ImageFile", "Faylın ölçüsü 200kb-dan çox olmamalıdır.");
+				ModelState.AddModelError("ImageFile", "Faylın ölçüsü 300kb-dan çox olmamalıdır.");
 		}
 		bool isImageValid = true;
 		StringBuilder sb = new StringBuilder();
@@ -67,8 +66,8 @@ public class ProductController(PrionaContext _context, IWebHostEnvironment _env)
 			ModelState.AddModelError("ImageFiles", sb.ToString());
 		}
 		if (await _context.Categories.CountAsync(c => data.CategoryIds.Contains(c.Id)) != data.CategoryIds.Length)
-
 			ModelState.AddModelError("CategoryIds", "kateqori tapilmadi");
+
 		if (!ModelState.IsValid)
 		{
 			ViewBag.Categories = await _context.Categories
@@ -76,9 +75,6 @@ public class ProductController(PrionaContext _context, IWebHostEnvironment _env)
 			return View(data);
 
 		}
-		ViewBag.Categories = await _context.Categories
-			.Where(s => !s.IsDeleted).ToListAsync();
-		return View(data);
 		string fileName = await data.ImageFile.SaveFileAsync(Path.Combine(_env.WebRootPath, "imgs", "products"));
 		Product prod = new Product
 		{
@@ -91,13 +87,22 @@ public class ProductController(PrionaContext _context, IWebHostEnvironment _env)
 			Rating = data.Rating,
 			SellPrice = data.SellPrice,
 			StockCount = data.StockCount,
-		//	Images = new List<ProductImage>(),
-			//ProductCategories = data.CategoryIds.Select(x => new 
-		//		ProductCategory{
-		//		CategoryId=x
-			
-		//	}).ToList()
-			};
+			Images = new List<ProductImage>(),
+			//ProductCategories = new List<ProductCategory>(),
+			ProductCategories = data.CategoryIds.Select(x => new
+				ProductCategory
+			{
+				CategoryId = x
+
+			}).ToList()
+		};
+		//foreach (var item in data.CategoryIds)
+		//{
+		//	prod.ProductCategories.Add(new ProductCategory
+		//	{
+		//		CategoryId = item
+		//	});
+		//}
 		foreach (var img in data.ImageFiles)
 		{
 			string imgName = await img.SaveFileAsync(Path.Combine(_env.WebRootPath, "imgs", "products"));

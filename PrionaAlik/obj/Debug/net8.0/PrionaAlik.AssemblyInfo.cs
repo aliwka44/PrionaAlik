@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrionaAlik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dea755e91ea21f241948cd49fd6481a66a47b82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f00c80231174781fcdf7df213206b294a1165188")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrionaAlik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrionaAlik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
