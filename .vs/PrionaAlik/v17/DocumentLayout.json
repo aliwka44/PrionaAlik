@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\viewcomponets\\productviewcomponet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewcomponets\\productviewcomponet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240519203011_CreateUsersTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrionaAlik\\Migrations\\20240519203011_CreateUsersTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\viewcomponets\\headerviewcomponet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewcomponets\\headerviewcomponet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\dataacceslayer\\prionacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\dataacceslayer\\prionacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\shared\\componets\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\shared\\componets\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\controllers\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\controllers\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\viewcomponets\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewcomponets\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\viewmodels\\products\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\products\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\viewmodels\\defaults\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\viewmodels\\defaults\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|c:\\users\\hp\\source\\repos\\prionaalik\\prionaalik\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D07705-0606-47A6-88A4-F1D2B6152C0D}|PrionaAlik\\PrionaAlik.csproj|solutionrelative:prionaalik\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,132 +38,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HeaderViewComponet.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewComponets\\HeaderViewComponet.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\ViewComponets\\HeaderViewComponet.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewComponets\\HeaderViewComponet.cs",
-              "RelativeToolTip": "PrionaAlik\\ViewComponets\\HeaderViewComponet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Program.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Program.cs",
+              "RelativeToolTip": "PrionaAlik\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:53:10.102Z",
+              "WhenOpened": "2024-05-19T20:31:02.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductViewComponet.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewComponets\\ProductViewComponet.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\ViewComponets\\ProductViewComponet.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewComponets\\ProductViewComponet.cs",
-              "RelativeToolTip": "PrionaAlik\\ViewComponets\\ProductViewComponet.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAowBQAAAAYAAAA",
+              "Title": "20240519203011_CreateUsersTables.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240519203011_CreateUsersTables.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Migrations\\20240519203011_CreateUsersTables.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Migrations\\20240519203011_CreateUsersTables.cs",
+              "RelativeToolTip": "PrionaAlik\\Migrations\\20240519203011_CreateUsersTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:07:06.087Z",
+              "WhenOpened": "2024-05-19T20:30:11.764Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FooterViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewComponets\\FooterViewComponent.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\ViewComponets\\FooterViewComponent.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewComponets\\FooterViewComponent.cs",
-              "RelativeToolTip": "PrionaAlik\\ViewComponets\\FooterViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAwAAAA",
+              "DocumentIndex": 2,
+              "Title": "PrionaContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\DataAccesLayer\\PrionaContext.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\DataAccesLayer\\PrionaContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\DataAccesLayer\\PrionaContext.cs",
+              "RelativeToolTip": "PrionaAlik\\DataAccesLayer\\PrionaContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:14:47.479Z",
+              "WhenOpened": "2024-05-19T20:27:08.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Shared\\Componets\\Product\\Default.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Views\\Shared\\Componets\\Product\\Default.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Shared\\Componets\\Product\\Default.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Views\\Shared\\Componets\\Product\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:12:04.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAIwHoAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T15:43:15.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Products\\GetProductVM.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Products\\GetProductVM.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Products\\GetProductVM.cs",
-              "RelativeToolTip": "PrionaAlik\\ViewModels\\Products\\GetProductVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\AppUser.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Controllers\\AppUser.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\AppUser.cs",
+              "RelativeToolTip": "PrionaAlik\\Controllers\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:09:38.142Z",
+              "WhenOpened": "2024-05-19T20:22:55.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABEAAAAAAAAAAAAawCAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T15:55:31.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Defaults\\HomeVM.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\ViewModels\\Defaults\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\ViewModels\\Defaults\\HomeVM.cs",
-              "RelativeToolTip": "PrionaAlik\\ViewModels\\Defaults\\HomeVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentIndex": 4,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "PrionaAlik\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "PrionaAlik\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T15:45:10.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PrionaAlik\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PrionaAlik\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T15:51:45.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PrionaAlik\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PrionaAlik\\PrionaAlik\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PrionaAlik\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADgvxAAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T15:43:06.49Z",
+              "WhenOpened": "2024-05-19T20:06:12.206Z",
               "EditorCaption": ""
             }
           ]

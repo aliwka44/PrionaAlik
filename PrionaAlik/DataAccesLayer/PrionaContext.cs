@@ -1,12 +1,14 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
+using PrionaAlik.Controllers;
 using PrionaAlik.Models;
 
 namespace PrionaAlik.DataAccesLayer
 {
-	public class PrionaContext : DbContext
+	public class PrionaContext : IdentityDbContext
 	{
-        public PrionaContext(DbContextOptions options) : base(options) {
+        public PrionaContext(DbContextOptions<PrionaContext> options) : base(options) {
 
         }
 		public DbSet<Category> Categories { get; set; }
@@ -15,6 +17,7 @@ namespace PrionaAlik.DataAccesLayer
 		public DbSet<Product> Products { get; set; }
 		public DbSet<Setting> Settings { get; set; }
 		public DbSet<ProductCategory> ProductCategories { get; set; }
+		public DbSet<AppUser> AppUsers { get; set; }
 		public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
 		{
 			foreach(var  entry in ChangeTracker.Entries())
@@ -31,11 +34,11 @@ namespace PrionaAlik.DataAccesLayer
 			}  
 			return base.SaveChangesAsync(cancellationToken);
 		}
-		protected override void OnConfiguring(DbContextOptionsBuilder options)
-		{
-			options.UseSqlServer(@"Server=DESKTOP-MPV3150;Database=PrionaAlik;Trusted_Connection=True;TrustServerCertificate=True");
-				base.OnConfiguring(options);
-		}
+		//protected override void OnConfiguring(DbContextOptionsBuilder options)
+		//{
+		//	options.UseSqlServer(@"Server=DESKTOP-MPV3150;Database=PrionaAlik;Trusted_Connection=True;TrustServerCertificate=True");
+		//		base.OnConfiguring(options);
+		//}
 
 	}
 }
